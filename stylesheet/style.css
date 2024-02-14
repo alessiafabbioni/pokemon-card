@@ -1,3 +1,15 @@
 .card {
     border-radius: 20px;
+    background-color: gold;
+    padding: 20px;
+}
+
+.card img {
+    max-width: 95%;
+    margin: auto;
+    border-radius: 20px;
+
+}
+.list-group {
+    border-radius: 20px;
 }
